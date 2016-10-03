@@ -1,6 +1,6 @@
 Project for Getting and Cleaning Data
 =====================================
-Author: Benjamin Chan (https://github.com/benjamin-chan/GettingAndCleaningData)
+Author: Parthasarathy Balaraman (https://github.com/Partha2910/GettingAndCleaningData/edit/master/Project/README.md)
 
 
 Parameters for the project
